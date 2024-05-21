@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGF1TJ6teM/BDJ5WJUwXRliXhSqEDN8ig/edit?utm_content=DAGF1TJ6teM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+![banner](https://www.canva.com/design/DAGF1mZg15g/wkQOtxPpWXOKbS0KaK3rAQ/view?utm_content=DAGF1mZg15g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 This is a project bootstrapped with [`@vitejs/app`](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) (`react-ts`), added with [TailwindCSS](https://tailwindcss.com) and [TypeScript](https://www.typescriptlang.org) setup.
 
